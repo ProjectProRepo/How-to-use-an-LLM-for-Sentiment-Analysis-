@@ -59,13 +59,6 @@ Examples:
 
 ---
 
-## Folder Structure
-
-```
-llm-sentiment/ │ ├── notebook.ipynb # Full Colab notebook for training and inference ├── README.md # Project documentation ├── logs/ # Training logs (optional) └── llm-sentiment/ # Output directory for fine-tuned model
-```
----
-
 ## Important Notes
 
 - You need a Hugging Face account and token to use the pre-trained model  
